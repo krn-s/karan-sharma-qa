@@ -19,7 +19,7 @@
 ---
 
 ### 📂 Featured Repositories
-- 🔗 [Selenium Java Framework](link) — POM + TestNG + Extent Reports
+- 🔗 [Selenium Java Framework](https://github.com/krn-s/selenium-java-testng-framework) — POM + TestNG + Extent Reports
 - 🔗 [Playwright BDD Framework](link) — Java + Cucumber + Allure Reports
 
 ---
